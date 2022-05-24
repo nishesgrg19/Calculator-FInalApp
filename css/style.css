@@ -1,0 +1,29 @@
+*{
+    padding: 0px;margin: 0px;box-sizing: 0px;
+}
+h4{text-align: center;margin-top: 20px;font-style: italic;font-size: 40px;}
+.cal1{width: 310px;margin: auto;margin-top: 80px;}
+.btn{padding: 17px 21px;margin: 2px 0px}
+form{width: 272px;height: 370px;
+    border: 1px solid black;
+    padding: 50px 30px;height: 430px;border-radius: 20px;margin: 100px auto;background-color: #333333;
+  
+    height: 463px;
+    }
+
+#screen{background-color: #9E9E9E;
+    color: black;
+    border-radius: 9px;
+    font-size: 32px;
+    width: 230px;
+    padding: 10px 4px;
+    text-align: right;
+    }
+.btnc{width: 53px;height: 53.44px;}
+.ibtn{padding: 56px 20px;border: 1px solid black;border-radius: 9px;background-color: silver;margin-top:20px;
+border: 1px solid black;width: 230px;}
+#cl{background-color: orange;border-radius: 24px;}
+#cl1{background-color: orange;}
+input{background-color: #333333;color: aliceblue;border-radius: 10px;}
+p{text-align: center;margin-top: 10px;color: aliceblue;}
+
