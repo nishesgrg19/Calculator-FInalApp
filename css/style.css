@@ -27,3 +27,28 @@ border: 1px solid black;width: 230px;}
 input{background-color: #333333;color: aliceblue;border-radius: 10px;}
 p{text-align: center;margin-top: 10px;color: aliceblue;}
 
+@media (max-width:500px){
+    .cal1{width: 310px;margin: auto;margin-top: 80px;}
+.btn{padding: 8px 10px;margin: 2px 0px}
+form{width: 200px;height: 370px;
+    border: 1px solid black;
+    padding: 50px 30px;height: 430px;border-radius: 20px;margin: 100px auto;background-color: #333333;
+  
+    height: 323px;
+    }
+
+#screen{background-color: #9E9E9E;
+    color: black;
+    border-radius: 9px;
+    font-size: 32px;
+    width: 130px;
+    padding: 0;
+    text-align: right;
+    }
+.btnc{width: 30px;height: 35.44px;}
+.ibtn{padding: 26px 23px;border: 1px solid black;border-radius: 9px;background-color: silver;margin-top:20px;
+border: 1px solid black;width: 150px;}
+#cl{background-color: orange;border-radius: 44px;}
+#cl1{background-color: orange;}
+input{background-color: #333333;color: aliceblue;border-radius: 7px;}
+}
